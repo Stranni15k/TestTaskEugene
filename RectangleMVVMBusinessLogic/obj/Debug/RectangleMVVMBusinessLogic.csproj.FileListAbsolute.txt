@@ -1,6 +1,0 @@
-C:\Users\Alina\source\repos\RectangleMVVM\RectangleMVVMBusinessLogic\bin\Debug\RectangleMVVMBusinessLogic.dll
-C:\Users\Alina\source\repos\RectangleMVVM\RectangleMVVMBusinessLogic\bin\Debug\RectangleMVVMBusinessLogic.pdb
-C:\Users\Alina\source\repos\RectangleMVVM\RectangleMVVMBusinessLogic\obj\Debug\RectangleMVVMBusinessLogic.csproj.AssemblyReference.cache
-C:\Users\Alina\source\repos\RectangleMVVM\RectangleMVVMBusinessLogic\obj\Debug\RectangleMVVMBusinessLogic.csproj.CoreCompileInputs.cache
-C:\Users\Alina\source\repos\RectangleMVVM\RectangleMVVMBusinessLogic\obj\Debug\RectangleMVVMBusinessLogic.dll
-C:\Users\Alina\source\repos\RectangleMVVM\RectangleMVVMBusinessLogic\obj\Debug\RectangleMVVMBusinessLogic.pdb
