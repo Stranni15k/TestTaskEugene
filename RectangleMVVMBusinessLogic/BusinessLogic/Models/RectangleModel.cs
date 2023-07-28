@@ -17,11 +17,7 @@ namespace RectangleMVVMBusinessLogic.BusinessLogic.Models
         public SolidColorBrush Color { get; set; }
         public bool IsVisible { get; set; } = true;
         public int RemoveAfterCycles { get; set; }
-
-        public void DecreaseCycles()
-        {
-            if (RemoveAfterCycles > 0)
-                RemoveAfterCycles--;
-        }
+        public bool MarkedForDeletion { get; set; }
+        public int CyclesLeft { get; set; }
     }
 }

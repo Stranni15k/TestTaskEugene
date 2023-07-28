@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\RectangleMVVMBusinessLogic",
-    "\\RectangleMVVMBusinessLogic\\BusinessLogic",
     "\\RectangleMVVMBusinessLogic\\BusinessLogic\\Converters"
   ],
-  "SelectedNode": "\\RectangleMVVMBusinessLogic\\BusinessLogic\\Converters\\BoolToVisibilityConverter.cs",
+  "SelectedNode": "\\RectangleMVVMBusinessLogic",
   "PreviewInSolutionExplorer": false
 }
