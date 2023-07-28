@@ -27,13 +27,12 @@ namespace RectangleMVVM
         public MainWindow()
         {
             InitializeComponent();
-            viewModel = new RectangleViewModel();
-            DataContext = viewModel;
         }
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
-            viewModel.InitializeRectangles();
+            viewModel = new RectangleViewModel();
+            DataContext = viewModel;
         }
     }
 }
